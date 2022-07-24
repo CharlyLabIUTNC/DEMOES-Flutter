@@ -1,6 +1,6 @@
 # Consignes d'installation
 
-L'application pour l'instant ne marche pas car SDK Wikitude d'essai a expiré
+Attention! SDK Wikitude d'essai a expiré. 
 
 ## Installation (ios)
 - Device sur votre iphone
